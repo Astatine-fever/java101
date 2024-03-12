@@ -1,2 +1,45 @@
-# java101
-Welcome to our Java Playground! 🚀 Dive into the world of Core Java with our beginner-friendly repository hosted on GitHub. Whether you're just starting out or looking to brush up on your skills, this repository is your go-to resource for mastering the fundamentals and beyond. 
+
+# Java 101
+
+Welcome to java 101 Repository.. This Repository is for students who wants to learn about basics and some core concepts of Java. 
+
+Feel free to fork it.
+
+
+
+
+
+
+
+## Topics Discussed
+
+- Variables
+- Data Types
+- Input and Output Statements
+- Operators 
+- Java Collections
+- Classes and Objects
+- Functions and its types 
+- Inheritance
+- Interface 
+- Method Overloading and overridding 
+- Constructors
+- File Handling 
+- Java Swing
+- Socket Programming Introduction
+- RMI (Remote Method Invocation)
+- JDBC (Java Database Connectivity)
+- Java Regex (Regular Expressions)
+- Java Generics
+
+
+## FAQ
+
+#### May I use this repo for my personal use / projects ?
+
+Yes, Feel free to use it as you see fit.
+
+#### Will you update this repo regularly ? 
+
+Not Sure but will try to do my best.
+
