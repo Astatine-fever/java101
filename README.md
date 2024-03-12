@@ -13,12 +13,8 @@ Feel free to fork it.
 
 ## Topics Discussed
 
-- Variables
-- Data Types
-- Input and Output Statements
-- Operators 
-- Java Collections
-- Classes and Objects
+- Variables and Operators
+- Control Flow Statements
 - Functions and its types 
 - Inheritance
 - Interface 

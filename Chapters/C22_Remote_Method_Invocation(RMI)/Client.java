@@ -1,8 +1,7 @@
-package Chapter21_RMI;
 
 import java.rmi.Naming;
 
-class Client {
+public class Client {
     public static void main(String[] args) {
         try {
             RemoteInterface obj = (RemoteInterface) Naming.lookup("//localhost/RemoteServer");
