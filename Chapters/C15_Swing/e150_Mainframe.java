@@ -2,7 +2,7 @@ package Chapters.C15_Swing;
 
 
 import javax.swing.*; 
-public class Mainframe 
+public class e150_Mainframe 
 { 
 public static void main(String[] args) 
 { 

@@ -2,7 +2,7 @@ package Chapters.C15_Swing;
 
 import javax.swing.*;
 
-public class MenuExample {
+public class e156_MenuExample {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Menu Example");
         JMenuBar menuBar = new JMenuBar();

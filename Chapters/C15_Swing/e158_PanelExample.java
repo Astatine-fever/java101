@@ -2,7 +2,7 @@ package Chapters.C15_Swing;
 
 import javax.swing.*;
 
-public class PanelExample {
+public class e158_PanelExample {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Panel Example");
         JPanel panel = new JPanel();

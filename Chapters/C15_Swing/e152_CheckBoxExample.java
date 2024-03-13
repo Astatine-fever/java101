@@ -2,7 +2,7 @@ package Chapters.C15_Swing;
 
 import javax.swing.*; 
 import java.awt.*;
-public class CheckBoxExample 
+public class e152_CheckBoxExample 
 { 
 public static void main(String[] args) 
 { 

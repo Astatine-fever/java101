@@ -4,7 +4,7 @@ import javax.swing.*;
 import javax.swing.event.*;
 import java.awt.event.*;
 
-public class ListSelectionListenerExample {
+public class e163_ListSelectionListenerExample {
     public static void main(String[] args) {
         JFrame frame = new JFrame("List Selection Listener Example");
         DefaultListModel<String> model = new DefaultListModel<>();

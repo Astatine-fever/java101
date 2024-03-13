@@ -3,7 +3,7 @@ package Chapters.C16_Event_Handlers;
 import javax.swing.*;
 import java.awt.event.*;
 
-public class MouseListenerExample {
+public class e164_MouseListenerExample {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Mouse Listener Example");
         JPanel panel = new JPanel();

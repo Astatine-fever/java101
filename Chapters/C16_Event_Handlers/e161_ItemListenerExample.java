@@ -3,7 +3,7 @@ package Chapters.C16_Event_Handlers;
 import javax.swing.*;
 import java.awt.event.*;
 
-public class ItemListenerExample {
+public class e161_ItemListenerExample {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Item Listener Example");
         JCheckBox checkBox = new JCheckBox("Select Me");

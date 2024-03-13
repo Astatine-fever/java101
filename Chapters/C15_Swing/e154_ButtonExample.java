@@ -1,7 +1,7 @@
 package Chapters.C15_Swing;
 
 import javax.swing.*; 
-public class ButtonExample { 
+public class e154_ButtonExample { 
 public static void main(String[] args) { 
 JFrame frame = new JFrame("Button Example"); 
 JButton button = new JButton("Click Me"); 

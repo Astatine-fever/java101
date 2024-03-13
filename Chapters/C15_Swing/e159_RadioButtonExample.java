@@ -3,7 +3,7 @@ package Chapters.C15_Swing;
 import javax.swing.*;
 import java.awt.*;
 
-public class RadioButtonExample {
+public class e159_RadioButtonExample {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Radio Button Example");
         JRadioButton radioButton1 = new JRadioButton("Option 1");

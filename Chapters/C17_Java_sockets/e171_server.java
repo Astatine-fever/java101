@@ -4,7 +4,7 @@ package Chapters.C17_Java_sockets;
 import java.net.*;
 import java.io.*;
 
-public class server
+public class e171_server
 {
 	//initialize socket and input stream
 	private Socket		 socket = null;
@@ -12,7 +12,7 @@ public class server
 	private DataInputStream in	 = null;
 
 	// constructor with port
-	public server(int port)
+	public e171_server(int port)
 	{
 		// starts server and waits for a connection
 		try
@@ -59,6 +59,6 @@ public class server
 
 	public static void main(String args[])
 	{
-		server s = new server(5000);
+		e171_server s = new e171_server(5000);
 	}
 }

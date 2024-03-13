@@ -4,14 +4,14 @@ package Chapters.C17_Java_sockets;
 import java.io.*;
 import java.net.*;
 
-public class client {
+public class e170_client {
 	// initialize socket and input output streams
 	private Socket socket = null;
 	private DataInputStream input = null;
 	private DataOutputStream out = null;
 
 	// constructor to put ip address and port
-	public client(String address, int port)
+	public e170_client(String address, int port)
 	{
 		// establish a connection
 		try {
@@ -61,6 +61,6 @@ public class client {
 
 	public static void main(String args[])
 	{
-		client c = new client("127.0.0.1", 5000);
+		e170_client c = new e170_client("127.0.0.1", 5000);
 	}
 }

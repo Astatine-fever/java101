@@ -1,11 +1,11 @@
-package Chapters.C21_Json;
+package Chapters.C20_Json;
 
 import java.io.FileWriter;
 import java.io.IOException;
 
 import com.google.gson.Gson;
 
-public class json {
+public class e20_javatojson {
 
     public static void main(String[] args) {
         // Sample 2-dimensional array

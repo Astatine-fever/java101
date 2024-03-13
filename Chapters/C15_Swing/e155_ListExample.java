@@ -2,12 +2,12 @@ package Chapters.C15_Swing;
 
 import javax.swing.*;
 
-public class ComboBoxExample {
+public class e155_ListExample {
     public static void main(String[] args) {
-        JFrame frame = new JFrame("Combo Box Example");
+        JFrame frame = new JFrame("List Example");
         String[] options = { "Option 1", "Option 2", "Option 3" };
-        JComboBox<String> comboBox = new JComboBox<>(options);
-        frame.add(comboBox);
+        JList<String> list = new JList<>(options);
+        frame.add(list);
         frame.setSize(300, 200);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);

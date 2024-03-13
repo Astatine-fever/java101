@@ -3,11 +3,11 @@ package Chapters.C15_Swing;
 import javax.swing.*;
 import java.awt.*;
 
-class MultiPageApp extends JFrame {
+class e157_MultiPageApp extends JFrame {
 
     private JTabbedPane tabbedPane;
 
-    public MultiPageApp() {
+    public e157_MultiPageApp() {
         setTitle("Multi-Page App");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(400, 300);
@@ -43,6 +43,6 @@ class MultiPageApp extends JFrame {
     }
 
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> new MultiPageApp());
+        SwingUtilities.invokeLater(() -> new e157_MultiPageApp());
     }
 }
