@@ -13,11 +13,11 @@ class Main {
     {
         // instance of Integer type
         e210_Java_Generic_Class<Integer> iObj = new e210_Java_Generic_Class<Integer>(15);
-        System.out.println(iObj.getObject());
+        System.out.println(" Age : "+iObj.getObject());
  
         // instance of String type
         e210_Java_Generic_Class<String> sObj
-            = new e210_Java_Generic_Class<String>("GeeksForGeeks");
-        System.out.println(sObj.getObject());
+            = new e210_Java_Generic_Class<String>("prasanna");
+        System.out.println(" Name : "+sObj.getObject());
     }
 }
