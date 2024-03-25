@@ -8,7 +8,7 @@ public int sub(int a,int b) //function 1
 {
 int c;
 c=a-b;
-return 0;
+return c;
 }
 public int add(int d,int e) // function 2 
 {

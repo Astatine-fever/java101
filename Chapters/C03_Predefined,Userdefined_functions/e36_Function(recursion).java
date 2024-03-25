@@ -4,10 +4,11 @@ class Recurve {
     static void loopmethod() // recursive function
     {
 
-        count--;
+        
         if (count >= 0) {
-            System.out.println("hello " + count);
 
+            System.out.println("hello " + count);
+            count--;
             loopmethod();
         }
     }
